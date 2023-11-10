@@ -1,3 +1,76 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Varanasi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-10T08:42:35.910Z",
+      "notes": "Really the City Of Gods",
+      "position": {
+        "lat": "25.331438405475012",
+        "lng": "83.00720214843751"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Chandigarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-08T08:43:14.000Z",
+      "notes": "Hoping it to be a nice place....",
+      "position": {
+        "lat": "30.737239736802763",
+        "lng": "76.76147460937501"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Los Angeles",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-11-10T08:46:20.322Z",
+      "notes": "The place lives upto its name...",
+      "position": {
+        "lat": "34.08186785351441",
+        "lng": "-118.04809570312501"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-11-10T08:46:46.707Z",
+      "notes": "This is where it all started",
+      "position": {
+        "lat": "38.91734172330227",
+        "lng": "-76.79443359375001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Chennai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-10T08:47:42.556Z",
+      "notes": "Currently Here 🔥🔥",
+      "position": {
+        "lat": "13.063886434086491",
+        "lng": "80.2880859375"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Dubai",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2023-11-10T14:16:12.633Z",
+      "notes": "NICE JUST NICE....",
+      "position": {
+        "lat": "25.168548756232695",
+        "lng": "55.37109375000001"
+      },
+      "id": 6
+    }
+  ]
 }
